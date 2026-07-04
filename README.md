@@ -1,1 +1,1 @@
-# Network-Security
+Engenheiro de Redes e Telecomunicações com experiência em infraestrutura de rede, fibra óptica e NOC. Atualmente a aprofundar conhecimentos em Cibersegurança, Cloud e automação de redes. Este repositório reúne labs de CCNA/CCNP, projetos de análise de dados e soluções de cibersegurança desenvolvidas durante a pós-graduação na Universidade Lusófona do Porto.
